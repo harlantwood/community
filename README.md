@@ -82,7 +82,7 @@ Christian Couder | [@chriscool](//github.com/chriscool) | [@ChristianCouder](htt
 David Dias | [@diasdavid](//github.com/diasdavid) | [@daviddias](//twitter.com/daviddias) | daviddias
 Dylan Powers | [@dylanPowers](https://github.com/dylanPowers) | [@dylankpowers](https://twitter.com/dylankpowers) | dpow
 Friedel Ziegelmayer | [@dignifiedquire](//github.com/Dignifiedquire) | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
-Harlan T Wood | [@harlantwood](//github.com/harlantwood) | [@harlantwood](//twitter.com/harlantwood) | 
+Harlan T Wood | [@harlantwood](//github.com/harlantwood) | [@harlantwood](//twitter.com/harlantwood) | harlantwood
 Henry Bubert | [@cryptix](//github.com/cryptix) | [@oObsi](//twitter.com/oObsi) | cryptix
 Jeromy Johnson | [@whyrusleeping](//github.com/whyrusleeping) | [@whyrusleeping](//twitter.com/whyrusleeping) | whyrusleeping
 Juan Benet | [@jbenet](//github.com/jbenet) | [@juanbenet](//twitter.com/juanbenet) | jbenet
